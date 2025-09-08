@@ -1,4 +1,3 @@
-<img width="1440" height="900" alt="Screenshot 2025-09-08 at 11 35 01 AM" src="https://github.com/user-attachments/assets/e3339c9d-9cc4-4696-9a82-c58e7eb4969d" /># Overview
 This project uses neural networks to automate curve fitting for hyperelastic material stress–strain data. Unlike traditional regression-based methods, the ANN learns stress–strain relationships directly, improving efficiency and reducing the cost of material characterization.
 
 # Dataset
